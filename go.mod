@@ -1,6 +1,6 @@
 module tripiode/canenia
 
-go 1.23
+go 1.23.2
 
 require github.com/hajimehoshi/ebiten/v2 v2.8.1
 
